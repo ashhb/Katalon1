@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Company_font-weight-bold font-size-16  bg-peach text-orange border-2</name>
+   <tag></tag>
+   <elementGuidId>4ac8e632-0a95-4b93-aa4c-6ad61d91187a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.font-weight-bold.font-size-16.bg-peach.text-orange.border-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold font-size-16  bg-peach text-orange border-2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/section[@class=&quot;vc_row&quot;]/div[@class=&quot;px-0&quot;]/div[@class=&quot;row d-flex flex-wrap align-items-stretch bg-light-peach&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;lqd-column col-md-12 col-xs-12 px-0 pt-50 pb-100 mt-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;lqd-column col-md-8 col-md-offset-1 px-4&quot;]/div[@class=&quot;contact-form contact-form-inputs-bordered contact-form-inputs-round contact-form-button-block contact-form-button-round mb-60&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 pl-0 mt-50&quot;]/div[@class=&quot;col-md-3 text-md-right input-focused&quot;]/input[@class=&quot;font-weight-bold font-size-16  bg-peach text-orange border-2&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Submit']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/section[2]/div/div/div/div/div/div/div/form/div[8]/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

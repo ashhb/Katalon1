@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Wait till the user gets Time out pop up</description>
+   <name>Session Time Out</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fb59875-9414-45cc-bc6f-b97202e6de43</testCaseGuid>
+</TestCaseEntity>
